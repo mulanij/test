@@ -7,7 +7,7 @@ package testexample;
 
 /**
  *
- * @author Joshua Mulani
+ * @author Joshua Mulani yeet
  */
 public class TestExample {
 
